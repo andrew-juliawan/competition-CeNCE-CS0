@@ -1,42 +1,40 @@
-# CeNCE CS0 Competition Documentation: My Journey in Competitive Programming
+# CeNCE CS0 Competition, My Journey in Competitive Programming
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrew-juliawan/Competition.git/master?urlpath=%2Fdoc%2Ftree%2Fcs0-code.ipynb)
 
-This repository documents my participation and achievement in the CeNCE CS0 competition, organized by the **National University of Singapore (NUS)**. It serves as a record of my dedication to improving my competitive programming skills and a testament to the learning journey undertaken.
+This repository documents my participation and achievement in the CeNCE CS0 competition, organized by the National University of Singapore (NUS) & Singapore International Mastery Contests Center (SIMCC). It serves as a record of my learning journey to improve my competitive python programming skills.
 
 ---
 
-## 📜 Context: What is CeNCE?
+## What is CeNCE?
 The **Centre for Nurturing Computing Excellence (CeNCE)** is a specialized initiative focused on fostering advanced computing talent, particularly in the area of competitive programming.
 
-| Detail | Description |
-| :--- | :--- |
-| **Mission & Objective** | CeNCE's core mission is to nurture the next generation of computing leaders by providing rigorous training and contest exposure. It aims to elevate computational thinking, problem-solving skills, and algorithm mastery among aspiring students, bridging the gap between foundational programming and elite competitive standards (like ICPC and IOI). |
-| **Source** | [CeNCE Official Website](https://cence.comp.nus.edu.sg/) |
+CeNCE's core mission is to nurture the next generation of computing leaders by providing rigorous training and contest exposure. It aims to elevate computational thinking, problem-solving skills, and algorithm mastery among aspiring students, bridging the gap between foundational programming and elite competitive standards (like ICPC and IOI). 
+ **Source**  [CeNCE Official Website](https://cence.comp.nus.edu.sg/) 
 
-## ⭐ My Motivation
+## My Motivation
 
-My participation in the CeNCE CS0 competition was driven by clear personal and academic goals:
+My participation in the CeNCE CS0 competition was primarily driven by these following reasons:
 
 1.  **To test my Python skill in a competition stage:** The CS0 level, focused on foundational programming concepts, provided an excellent environment to stress-test my command of Python under competitive time constraints.
 2.  **To test the water to have learning experience at NUS School of Computing:** Engaging with a program developed by the NUS School of Computing offered an invaluable opportunity to experience the level of rigor and academic standard upheld by the university.
 
-## 🚧 Challenges Faced
+## Challenges
 
-The road to the competition presented significant hurdles that required high dedication:
+Challenges that I faced during participating this competition are:
 
 1.  **Short / limited time to learn:** Balancing the demands of preparing for a high-stakes competition with other commitments meant resources and time for preparation were severely constrained.
 2.  **The competition concurrent with school exams:** The overlap of the competition timeline with crucial school examinations required intense scheduling and management of focus between academic responsibilities and competitive training.
 
-## 📚 Preparation Method
+## Preparation Method
 
-Despite the challenges, I employed a focused and intensive preparation strategy:
+Despite challenges, my strategy to prepare was:
 
-* I spent **two weeks** thoroughly studying the instructional videos and completing the problem sets prepared and provided by the NUS School of Computing team. This was done to rapidly improve my skills and master the required material within the limited timeframe.
+I allocated 4 hours a day for two weeks thoroughly self-studying the instructional videos and completing the practice problem sets provided by the NUS School of Computing team.
 
-## 🏆 Achievement & Proof
+## Achievement
 
-My dedication and preparation culminated in a merit achievement in the competition:
+I achieved "**Certificate of MERIT**" for this competition
 
 | Achievement Link | Description |
 | :--- | :--- |
