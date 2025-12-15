@@ -32,7 +32,7 @@ The road to the competition presented significant hurdles that required high ded
 
 Despite the challenges, I employed a focused and intensive preparation strategy:
 
-* I spent **two weeks** thoroughly studying the instructional videos and diligently completing the problem sets prepared and provided by the NUS School of Computing team. This methodical approach was essential to rapidly improve my skills and master the required computational material within the limited timeframe.
+* I spent **two weeks** thoroughly studying the instructional videos and completing the problem sets prepared and provided by the NUS School of Computing team. This was done to rapidly improve my skills and master the required material within the limited timeframe.
 
 ## 🏆 Achievement & Proof
 
