@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrew-juliawan/Competition.git/master?urlpath=%2Fdoc%2Ftree%2Fcs0-code.ipynb)
 
-This repository documents my participation and achievement in the CeNCE CS0 competition, organized by the National University of Singapore (NUS). It serves as a record of my dedication to improving my competitive programming skills and a testament to the learning journey undertaken.
+This repository documents my participation and achievement in the CeNCE CS0 competition, organized by the **National University of Singapore (NUS)**. It serves as a record of my dedication to improving my competitive programming skills and a testament to the learning journey undertaken.
 
 ---
 
