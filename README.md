@@ -7,9 +7,12 @@ This repository documents my participation and achievement in the CeNCE CS0 comp
 ---
 
 ## 📜 Context: What is CeNCE?
+The **Centre for Nurturing Computing Excellence (CeNCE)** is a specialized initiative focused on fostering advanced computing talent, particularly in the area of competitive programming.
 
-
-
+| Detail | Description |
+| :--- | :--- |
+| **Mission & Objective** | CeNCE's core mission is to nurture the next generation of computing leaders by providing rigorous training and contest exposure. It aims to elevate computational thinking, problem-solving skills, and algorithm mastery among aspiring students, bridging the gap between foundational programming and elite competitive standards (like ICPC and IOI). |
+| **Source** | [CeNCE Official Website](https://cence.comp.nus.edu.sg/) |
 
 
 CeNCE-CS0 is a coding competition held on 2 August hosted on the **Coursemology** platform and organized by the **NUS School of Computing**. The contest consists of 5 questions, all of which participants are required to solve using a **local IDE** (IDLE) on Python within 2 hours. CS0 covers topics about strings, tuples, lists, functions, nested loops, data abstraction, and common problem solving techniques.
